@@ -81,9 +81,12 @@ img {
   height: 15px;
   border-radius: 30px;
 }
+.foot {
+  margin-top: 20px;
+}
 .skeleton_paragraph {
   width: 100%;
-  height: 0.7rem;
+  height: 0.6rem;
   margin-bottom: 10px;
   border-radius: 0.25rem;
 }

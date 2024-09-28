@@ -16,6 +16,7 @@ for (let i = 0; i < 14; i++) {
           <p class="skeleton skeleton_paragraph"></p>
           <p class="skeleton skeleton_paragraph"></p>
           <p class="skeleton skeleton_paragraph"></p>
+          <p class="skeleton skeleton_paragraph"></p>
         </div>
       </div>`;
   console.log(container);
